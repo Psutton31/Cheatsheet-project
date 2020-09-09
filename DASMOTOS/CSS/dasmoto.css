@@ -1,0 +1,32 @@
+.title{
+  font-family: Helvetica;
+ font-size:100px;
+font-weight: bold;
+color:khaki;
+text-align:center;
+background-image: url(" media/pattern.jpeg");
+}
+p{font-family: Helvetica;
+line-spacing:0.100px;
+}
+.products{
+  font-family:Helvetica;
+  font-size: 32 px;
+font-weight:bold;
+color:white;
+}
+.brushes{
+  background-color: mediumspringgreen;
+
+}
+.blue{font-weight: bold;
+color: blue;}
+
+.frames{
+  font-weight: bold;
+  background-color: lightcoral;
+}
+.paint{
+  font-weight: bold;
+  background-color: skyblue;
+}
