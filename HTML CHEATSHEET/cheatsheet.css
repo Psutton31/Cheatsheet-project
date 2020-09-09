@@ -1,0 +1,25 @@
+body {
+  background-color: tomato;
+  text-align: center;
+
+
+}
+table, td{
+  border-style: solid;
+  border-size 1px;
+  border-color: Black;
+
+
+}
+thead {
+  background-color: Darksalmon;
+}
+
+.center{
+  margin-right: auto;
+  margin-left: auto;
+}
+.tag{
+  font-family: monospace;
+  background-color: white;
+}
